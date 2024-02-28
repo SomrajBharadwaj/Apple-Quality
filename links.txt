@@ -1,0 +1,5 @@
+Jupyter Notebook : http://localhost:8888/notebooks/somraj%20bharadwaj%20assignment.ipynb
+
+Kaggle(Dataset) : https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
+
+GitHub : https://github.com/SomrajBharadwaj/Apples-Quality.git
